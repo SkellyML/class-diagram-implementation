@@ -1,0 +1,34 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "cwd": "c:/Users/RK/OneDrive/Desktop/basics-and-fundamentals-c",
+      "program": "c:/Users/RK/OneDrive/Desktop/basics-and-fundamentals-c/build/Debug/outDebug",
+=======
+      "cwd": "c:/Users/RK/basics-and-fundamentals-c",
+      "program": "c:/Users/RK/basics-and-fundamentals-c/build/Debug/outDebug",
+>>>>>>> e19359232642e01c817f7ba299e12d96fb8fc283
+=======
+      "cwd": "c:/Users/RK/OneDrive/Desktop/class-diagram-implementation",
+      "program": "c:/Users/RK/OneDrive/Desktop/class-diagram-implementation/build/Debug/outDebug",
+>>>>>>> ee5a391 (new2nd commit)
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
